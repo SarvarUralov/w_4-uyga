@@ -6,3 +6,12 @@
     text-decoration: none;
     list-style: none;
 }
+
+.it-photo {
+    width: 207px;
+    height: 170px;
+}
+
+.carousel-item img {
+    border-radius: 10%;
+}
